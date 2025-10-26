@@ -1,0 +1,11 @@
+{
+  "description": "OralScan AI app domain",
+  "repo": "https://github.com/geneconceja/oralscope2",
+  "owner": {
+    "username": "geneconceja",
+    "email": "geneconceja@email.com"
+  },
+  "record": {
+    "A": ["76.76.21.21"]
+  }
+}
